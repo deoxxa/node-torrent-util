@@ -1,0 +1,22 @@
+{
+  "name": "torrent-util",
+  "description": "Various utility functions for making sense of .torrent files",
+  "version": "0.0.1",
+  "author": {
+    "name": "Conrad Pankoff",
+    "email": "deoxxa@fknsrs.biz",
+    "url": "http://www.fknsrs.biz/"
+  },
+  "url": "http://github.com/deoxxa/node-torrent-util",
+  "license" : "BSD",
+  "repository" : { "type":"git", "url":"git://github.com/deoxxa/node-torrent-util.git" },
+  "keywords" : [
+    "torrent",
+    "utility"
+  ],
+  "main": "./lib/torrent-util",
+  "dependencies": {},
+  "engines": {
+    "node" : ">=0.4.12"
+  }
+}
