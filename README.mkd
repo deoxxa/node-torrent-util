@@ -1,0 +1,27 @@
+node-torrent-util
+=================
+
+Overview
+--------
+
+.torrent files differ wildly in their contents. This package aims to make it a
+little easier to extract the various metadata components from them in a simple
+way.
+
+Features
+--------
+
+* "created by" field parsing
+
+Usage
+-----
+
+```
+var torrent_util = require("torrent-util");
+var created_by = torrent_util.parse_created_by("uTorrent/2040");
+```
+
+Contact
+-------
+
+Github, email or IRC. I'm on freenode.
