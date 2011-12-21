@@ -1,7 +1,7 @@
 {
   "name": "torrent-util",
   "description": "Various utility functions for making sense of .torrent files",
-  "version": "0.2.2",
+  "version": "0.3.1",
   "author": {
     "name": "Conrad Pankoff",
     "email": "deoxxa@fknsrs.biz",
