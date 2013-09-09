@@ -21,7 +21,14 @@ var torrent_util = require("torrent-util");
 var created_by = torrent_util.parse_created_by("uTorrent/2040");
 ```
 
+License
+-------
+
+3-clause BSD. A copy is included with the source.
+
 Contact
 -------
 
-Github, email or IRC. I'm on freenode.
+* GitHub ([deoxxa](http://github.com/deoxxa))
+* Twitter ([@deoxxa](http://twitter.com/deoxxa))
+* Email ([deoxxa@fknsrs.biz](mailto:deoxxa@fknsrs.biz))
