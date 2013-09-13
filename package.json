@@ -18,7 +18,9 @@
     "utility"
   ],
   "main": "./lib/torrent-util",
-  "dependencies": {},
+  "dependencies": {
+    "bittorrent-created-by": "~0.0.1"
+  },
   "engines": {
     "node": ">=0.4.12"
   }
