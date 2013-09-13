@@ -8,15 +8,18 @@
     "url": "http://www.fknsrs.biz/"
   },
   "url": "http://github.com/deoxxa/node-torrent-util",
-  "license" : "BSD",
-  "repository" : { "type":"git", "url":"git://github.com/deoxxa/node-torrent-util.git" },
-  "keywords" : [
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/deoxxa/node-torrent-util.git"
+  },
+  "keywords": [
     "torrent",
     "utility"
   ],
   "main": "./lib/torrent-util",
   "dependencies": {},
   "engines": {
-    "node" : ">=0.4.12"
+    "node": ">=0.4.12"
   }
 }
