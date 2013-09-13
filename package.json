@@ -7,6 +7,9 @@
     "email": "deoxxa@fknsrs.biz",
     "url": "http://www.fknsrs.biz/"
   },
+  "scripts": {
+    "test": "mocha -R tap"
+  },
   "url": "http://github.com/deoxxa/node-torrent-util",
   "license": "BSD",
   "repository": {
@@ -23,5 +26,9 @@
   },
   "engines": {
     "node": ">=0.4.12"
+  },
+  "devDependencies": {
+    "chai": "~1.7.2",
+    "mocha": "~1.12.1"
   }
 }
